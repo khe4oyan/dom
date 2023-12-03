@@ -1,1 +1,1 @@
-# Fast Work from DOM in JavaScript
+# Fast Work with DOM in JavaScript
